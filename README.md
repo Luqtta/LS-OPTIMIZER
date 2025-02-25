@@ -24,7 +24,7 @@ O **LS OPTIMIZER** é um aplicativo focado em otimizar o sistema operacional Win
 
 ### **Em Breve**
 
-Em breve, o **LS OPTIMIZER** contará com um sistema que permitirá ao usuário configurar a otimização para iniciar automaticamente com o Windows. Além disso, será possível definir intervalos personalizados para a limpeza do sistema, podendo escolher entre 1, 5, 10, 15, 30 ou 60 minutos, de acordo com a preferência do usuário. Fique ligado para mais atualizações!
+O **LS OPTIMIZER** contará com um sistema que permitirá ao usuário configurar a otimização para iniciar automaticamente com o Windows. Além disso, será possível definir intervalos personalizados para a limpeza do sistema, podendo escolher entre **1, 5, 10, 15, 30 ou 60 minutos**, de acordo com a preferência do usuário. Fique ligado para mais atualizações!
 
 ## **Preview**
 
@@ -58,7 +58,7 @@ O objetivo principal do **LS OPTIMIZER** é proporcionar aos usuários uma manei
 
 1. Abra o aplicativo **LS OPTIMIZER**.
 2. O aplicativo exibirá informações sobre a memória do sistema.
-3. Clique no botão de **Otimizar** para iniciar o processo de limpeza. (por enquanto esse processo esta basico)
+3. Clique no botão de **Otimizar** para iniciar o processo de limpeza.
 4. O aplicativo limpará as pastas de arquivos temporários e exibirá um status após a otimização.
 5. Acompanhe o **status** da otimização e visualize o progresso com a animação de pontos.
 6. Acesse os **logs** para verificar as ações realizadas e erros encontrados.
