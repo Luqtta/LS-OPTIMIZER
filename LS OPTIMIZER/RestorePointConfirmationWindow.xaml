@@ -1,0 +1,22 @@
+﻿<Window x:Class="LS_OPTIMIZER.RestorePointConfirmationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Confirmação de Ponto de Restauração" 
+        Height="200" 
+        Width="400" 
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="None" 
+        ResizeMode="NoResize">
+    <Grid>
+        <TextBlock Text="Você deseja criar um ponto de restauração antes de otimizar?" 
+                   TextWrapping="Wrap" Margin="10" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="16"/>
+        <CheckBox x:Name="RememberChoiceCheckBox" Content="Não mostrar esta mensagem novamente" 
+                  VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,131,0,0"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,151,0,0">
+            <Button Content="Sim" Width="75" Margin="5" Click="YesButton_Click"/>
+            <Button Content="Não" Width="75" Margin="5" Click="NoButton_Click"/>
+        </StackPanel>
+        <TextBlock Text="Criar um ponto de restauração é uma medida de segurança essencial, e caso opte por não fazê-lo, estará por sua conta e risco." 
+            TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,71,0,0"/>
+    </Grid>
+</Window>

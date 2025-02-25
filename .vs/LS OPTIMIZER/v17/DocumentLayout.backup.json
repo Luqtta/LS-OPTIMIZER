@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|c:\\users\\lucas\\desktop\\ls optimizer\\app-ls-optimizer-main\\ls optimizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|solutionrelative:ls optimizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|c:\\users\\lucas\\desktop\\ls optimizer\\app-ls-optimizer-main\\ls optimizer\\restorepointconfirmationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|solutionrelative:ls optimizer\\restorepointconfirmationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|c:\\users\\lucas\\desktop\\ls optimizer\\app-ls-optimizer-main\\ls optimizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|solutionrelative:ls optimizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|c:\\users\\lucas\\desktop\\ls optimizer\\app-ls-optimizer-main\\ls optimizer\\restorepointconfirmationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6131D92-1EEB-46AD-86FA-FAF2BE6B51CA}|LS OPTIMIZER\\LS OPTIMIZER.csproj|solutionrelative:ls optimizer\\restorepointconfirmationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LS OPTIMIZER\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LS OPTIMIZER\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAswM0BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:55:00.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LS OPTIMIZER\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\MainWindow.xaml",
+              "RelativeToolTip": "LS OPTIMIZER\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T17:54:49.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestorePointConfirmationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\RestorePointConfirmationWindow.xaml",
+              "RelativeDocumentMoniker": "LS OPTIMIZER\\RestorePointConfirmationWindow.xaml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\RestorePointConfirmationWindow.xaml",
+              "RelativeToolTip": "LS OPTIMIZER\\RestorePointConfirmationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T07:21:41.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestorePointConfirmationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\RestorePointConfirmationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LS OPTIMIZER\\RestorePointConfirmationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\LS OPTIMIZER\\APP-LS-OPTIMIZER-main\\LS OPTIMIZER\\RestorePointConfirmationWindow.xaml.cs",
+              "RelativeToolTip": "LS OPTIMIZER\\RestorePointConfirmationWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:21:52.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
