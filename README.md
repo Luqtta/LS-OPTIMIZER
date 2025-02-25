@@ -32,7 +32,7 @@ Em breve, o **LS OPTIMIZER** contará com um sistema que permitirá ao usuário 
 
 Abaixo está um exemplo da interface do **LS OPTIMIZER**:
 
-![Image](https://github.com/user-attachments/assets/d766b6ed-d4b2-4a38-a777-0ca32bd38266)
+![Image](https://github.com/user-attachments/assets/9c2e562d-fae9-4099-ae14-20da8064c3b0)
 
 A interface é simples e direta, oferecendo informações claras sobre o estado da memória do sistema e o status da otimização. O botão de otimização permite ao usuário iniciar o processo de limpeza com um clique.
 
